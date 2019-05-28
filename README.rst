@@ -2,17 +2,17 @@
 Cookiecutter PyPackage
 ======================
 
-.. image:: https://pyup.io/repos/github/audreyr/cookiecutter-pypackage/shield.svg
-     :target: https://pyup.io/repos/github/audreyr/cookiecutter-pypackage/
+.. image:: https://pyup.io/repos/github/jsolbrig/cookiecutter-satpy/shield.svg
+     :target: https://pyup.io/repos/github/jsolbrig/cookiecutter-satpy/
      :alt: Updates
 
-.. image:: https://travis-ci.org/audreyr/cookiecutter-pypackage.svg?branch=master
-    :target: https://travis-ci.org/audreyr/cookiecutter-pypackage     
+.. image:: https://travis-ci.org/jsolbrig/cookiecutter-satpy.svg?branch=master
+    :target: https://travis-ci.org/jsolbrig/cookiecutter-satpy
 
 Cookiecutter_ template for a Python package.
 
-* GitHub repo: https://github.com/audreyr/cookiecutter-pypackage/
-* Documentation: https://cookiecutter-pypackage.readthedocs.io/
+* GitHub repo: https://github.com/jsolbrig/cookiecutter-satpy/
+* Documentation: https://cookiecutter-satpy.readthedocs.io/
 * Free software: BSD license
 
 Features
@@ -33,14 +33,14 @@ Build Status
 
 Linux:
 
-.. image:: https://img.shields.io/travis/audreyr/cookiecutter-pypackage.svg
-    :target: https://travis-ci.org/audreyr/cookiecutter-pypackage
+.. image:: https://img.shields.io/travis/jsolbrig/cookiecutter-satpy.svg
+    :target: https://travis-ci.org/jsolbrig/cookiecutter-satpy
     :alt: Linux build status on Travis CI
 
 Windows:
 
-.. image:: https://ci.appveyor.com/api/projects/status/github/audreyr/cookiecutter-pypackage?branch=master&svg=true
-    :target: https://ci.appveyor.com/project/audreyr/cookiecutter-pypackage/branch/master
+.. image:: https://ci.appveyor.com/api/projects/status/github/jsolbrig/cookiecutter-satpy?branch=master&svg=true
+    :target: https://ci.appveyor.com/project/jsolbrig/cookiecutter-satpy/branch/master
     :alt: Windows build status on Appveyor
 
 Quickstart
@@ -53,7 +53,7 @@ Cookiecutter 1.4.0 or higher)::
 
 Generate a Python package project::
 
-    cookiecutter https://github.com/audreyr/cookiecutter-pypackage.git
+    cookiecutter https://github.com/jsolbrig/cookiecutter-satpy.git
 
 Then:
 
